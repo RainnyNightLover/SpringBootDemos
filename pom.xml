@@ -7,5 +7,9 @@
   <modules>
   	<module>springbootmybaits</module>
   	<module>SpringBootPageHelper</module>
+  	<module>SpringBootWebserviceBasic</module>
+  	<module>SpringBootWebserviceClient</module>
+  	<module>SpringBootWebserviceMulti</module>
+  	<module>SpringBootWebserviceIntercepter</module>
   </modules>
 </project>
