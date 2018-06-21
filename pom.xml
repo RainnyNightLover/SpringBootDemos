@@ -11,5 +11,7 @@
   	<module>SpringBootWebserviceClient</module>
   	<module>SpringBootWebserviceMulti</module>
   	<module>SpringBootWebserviceIntercepter</module>
+  	<module>springbootelasticsearch</module>
+  	<module>SpringBootDataElasticsearch</module>
   </modules>
 </project>
