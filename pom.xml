@@ -6,5 +6,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>springbootmybaits</module>
+  	<module>SpringBootPageHelper</module>
   </modules>
 </project>
