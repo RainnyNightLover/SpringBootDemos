@@ -13,5 +13,6 @@
   	<module>SpringBootWebserviceIntercepter</module>
   	<module>springbootelasticsearch</module>
   	<module>SpringBootDataElasticsearch</module>
+  	<module>SpringBootDataJPA</module>
   </modules>
 </project>
