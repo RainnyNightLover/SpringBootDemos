@@ -1,2 +1,0 @@
-﻿1、该连接ElasticSearch的方式仅适用于5.X以上的版本；是直接采用ElasticSearch对外暴露的接口进行连接的；
-2、更多针对性信息参考https://www.souyunku.com/2017/11/06/ElasticSearch-example/
