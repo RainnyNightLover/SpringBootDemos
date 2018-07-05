@@ -14,5 +14,6 @@
   	<module>springbootelasticsearch</module>
   	<module>SpringBootDataElasticsearch</module>
   	<module>SpringBootDataJPA</module>
+  	<module>SpringBootElasticsearch</module>
   </modules>
 </project>

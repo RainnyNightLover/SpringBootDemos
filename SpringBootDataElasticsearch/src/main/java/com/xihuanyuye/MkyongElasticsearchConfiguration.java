@@ -52,6 +52,4 @@ public class MkyongElasticsearchConfiguration {
         return new ElasticsearchTemplate(nodeBuilder().local(true).node().client());
     }*/
 
-	
-	
 }
