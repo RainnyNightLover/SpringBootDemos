@@ -16,5 +16,6 @@
   	<module>SpringBootDataJPA</module>
   	<module>SpringBootElasticsearch</module>
   	<module>SpringBootDataElasticsearchUtil</module>
+  	<module>SpringBootWebsocket</module>
   </modules>
 </project>

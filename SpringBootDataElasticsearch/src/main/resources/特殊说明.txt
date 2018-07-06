@@ -1,0 +1,2 @@
+该版本的SpringDataElasticSearch对应的ElasticSearch须为2.4.5版本才可以跑通，5.6.7出现异常；
+但是利用ElasticSearch自身提供的包进行封装操作时，需要用5.6.7版本的ElasticSearch服务；
