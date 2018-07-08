@@ -17,5 +17,6 @@
   	<module>SpringBootElasticsearch</module>
   	<module>SpringBootDataElasticsearchUtil</module>
   	<module>SpringBootWebsocket</module>
+  	<module>SpringBootActivemq</module>
   </modules>
 </project>
