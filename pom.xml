@@ -19,5 +19,6 @@
   	<module>SpringBootWebsocket</module>
   	<module>SpringBootActivemq</module>
   	<module>SpringBootMails</module>
+  	<module>SpringBootRedis</module>
   </modules>
 </project>
