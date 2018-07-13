@@ -20,5 +20,6 @@
   	<module>SpringBootActivemq</module>
   	<module>SpringBootMails</module>
   	<module>SpringBootRedis</module>
+  	<module>SpringBootDataMongodb</module>
   </modules>
 </project>
