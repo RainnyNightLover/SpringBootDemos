@@ -21,5 +21,6 @@
   	<module>SpringBootMails</module>
   	<module>SpringBootRedis</module>
   	<module>SpringBootDataMongodb</module>
+  	<module>SpringBootKafka</module>
   </modules>
 </project>
