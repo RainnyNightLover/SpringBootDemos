@@ -22,5 +22,6 @@
   	<module>SpringBootRedis</module>
   	<module>SpringBootDataMongodb</module>
   	<module>SpringBootKafka</module>
+  	<module>SpringBootDubbo</module>
   </modules>
 </project>
