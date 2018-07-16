@@ -23,5 +23,6 @@
   	<module>SpringBootDataMongodb</module>
   	<module>SpringBootKafka</module>
   	<module>SpringBootDubbo</module>
+  	<module>SpringBootLogback</module>
   </modules>
 </project>
