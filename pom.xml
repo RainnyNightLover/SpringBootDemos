@@ -24,5 +24,6 @@
   	<module>SpringBootKafka</module>
   	<module>SpringBootDubbo</module>
   	<module>SpringBootLogback</module>
+  	<module>SpringBootLucene</module>
   </modules>
 </project>
