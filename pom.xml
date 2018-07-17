@@ -25,5 +25,7 @@
   	<module>SpringBootDubbo</module>
   	<module>SpringBootLogback</module>
   	<module>SpringBootLucene</module>
+  	<module>SpringBootSolr</module>
+  	<module>SpringBootDataSolr</module>
   </modules>
 </project>
