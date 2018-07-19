@@ -27,5 +27,12 @@
   	<module>SpringBootLucene</module>
   	<module>SpringBootSolr</module>
   	<module>SpringBootDataSolr</module>
+  	<module>SpringBootStarter</module>
+  	<module>SpringBootQuartz</module>
+  	<module>SpringBootSchedule</module>
+  	<module>SpringBootQuartzH2</module>
+  	<module>SpringBootQuartzEasy</module>
+  	<module>SpringBootQuartz_one</module>
+  	<module>SpringBootQuartztwo</module>
   </modules>
 </project>
