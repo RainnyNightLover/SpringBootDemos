@@ -34,5 +34,6 @@
   	<module>SpringBootQuartzEasy</module>
   	<module>SpringBootQuartz_one</module>
   	<module>SpringBootQuartztwo</module>
+  	<module>SpringBootCache</module>
   </modules>
 </project>
